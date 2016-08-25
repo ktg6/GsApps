@@ -22,7 +22,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
-                android:background="##CEF6F5">
+                android:background="@color/white">
 
                 <ImageView
                     android:src="@drawable/logo"
@@ -30,7 +30,6 @@
                     android:layout_weight="2"
                     android:layout_height="wrap_content"
                     android:scaleType="fitCenter"
-                    android:id="@+id/"
                     android:background="#F6CECE" />
                 <LinearLayout
                     android:layout_width="0dp"
@@ -85,7 +84,7 @@
                     android:src="@drawable/bg_cheese"
                     android:scaleType="centerCrop"
                     android:layout_alignParentTop="true"
-                    android:layout_centerHorizontal="true" />
+                    android:layout_alignParentStart="true" />
 
                 <ImageView
                     android:id="@+id/catch_copy"
