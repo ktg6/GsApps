@@ -21,14 +21,17 @@
                 android:layout_marginRight="8dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="horizontal">
+                android:orientation="horizontal"
+                android:background="##CEF6F5">
 
                 <ImageView
                     android:src="@drawable/logo"
                     android:layout_width="0dp"
-                    android:layout_weight="1"
+                    android:layout_weight="2"
                     android:layout_height="wrap_content"
-                    android:scaleType="fitCenter"/>
+                    android:scaleType="fitCenter"
+                    android:id="@+id/"
+                    android:background="#F6CECE" />
                 <LinearLayout
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
@@ -42,7 +45,7 @@
                         android:layout_height="wrap_content"
                         android:singleLine="true"
                         android:gravity="right"
-                        android:textColor="@color/black"
+                        android:textColor="#013ADF"
                         android:text="@string/motto1"/>
                     <TextView
                         android:id="@+id/motto2"
@@ -50,7 +53,7 @@
                         android:layout_height="wrap_content"
                         android:singleLine="true"
                         android:gravity="right"
-                        android:textColor="@color/black"
+                        android:textColor="#3ADF00"
                         android:text="@string/motto2"/>
                     <TextView
                         android:id="@+id/motto3"
@@ -58,7 +61,7 @@
                         android:layout_height="wrap_content"
                         android:singleLine="true"
                         android:gravity="right"
-                        android:textColor="@color/black"
+                        android:textColor="#D7DF01"
                         android:text="@string/motto3"/>
                     <TextView
                         android:id="@+id/motto4"
@@ -66,7 +69,7 @@
                         android:layout_height="wrap_content"
                         android:singleLine="true"
                         android:gravity="right"
-                        android:textColor="@color/black"
+                        android:textColor="#FE2E2E"
                         android:text="@string/motto4"/>
                 </LinearLayout>
             </LinearLayout>
@@ -89,8 +92,12 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:src="@drawable/catch_copy"
-                    android:layout_centerInParent="true"
-                    android:scaleType="centerInside"/>
+                    android:scaleType="centerInside"
+                    android:layout_marginTop="414dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentStart="true"
+                    android:background="#F5A9F2" />
+
             </RelativeLayout>
 
             <LinearLayout
