@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kt/GsApps/GsApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/kt/GsApps/GsApp/app/build/intermediates/pre-dexed/debug/classes-74cd4557b21da8f28d68aff0284874b2fdb2c203.jar" />
+    </item>
+    <item
+        jar="/Users/kt/GsApps/GsApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/kt/GsApps/GsApp/app/build/intermediates/pre-dexed/debug/classes-802dbf2a6703f5110b143230ae71db9c170d43da.jar" />
+    </item>
+    <item
+        jar="/Users/kt/GsApps/GsApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/kt/GsApps/GsApp/app/build/intermediates/pre-dexed/debug/classes-9468665a32f4c57640d2dfb9b3e2f3cd363c374d.jar" />
+    </item>
+    <item
+        jar="/Users/kt/GsApps/GsApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/kt/GsApps/GsApp/app/build/intermediates/pre-dexed/debug/classes-3577786b144791f1a87bf980347218e679834a9d.jar" />
+    </item>
+    <item
+        jar="/Users/kt/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/kt/GsApps/GsApp/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1-f3aa0918cfd7c62b73252f4ab0fd04718fcd5459.jar" />
+    </item>
+    <item
+        jar="/Users/kt/GsApps/GsApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/kt/GsApps/GsApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1-7db1b05d7e966803003d7bac4b143836b70141fd.jar" />
+    </item>
+
+</items>
